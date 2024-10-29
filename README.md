@@ -1,2 +1,2 @@
 # free-prehrajto
-paywall bypass
+24-line script breaks site and bypasses paywall
